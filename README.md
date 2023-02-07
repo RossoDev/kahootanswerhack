@@ -1,6 +1,10 @@
 # Kahoot Answer Hack
 Batch file hack that allows you to extrapolate the correct answers from Kahoot.
 
+Pure Batch,
+
+**For u <3**
+
 ![cmdkahootanswerhack](https://user-images.githubusercontent.com/44946921/217188017-24514392-8fcc-4e07-bb95-021b13c6ee44.png)
 
 INSTRUCTION MANUAL:
@@ -21,3 +25,9 @@ Warning:
 When you return to the main page, the Kahoot answers document will be deleted.
 
 ![cmdkahootanswerhacksolutions](https://user-images.githubusercontent.com/44946921/217188033-39f3e0ba-0cd1-4255-a842-a930677734ba.png)
+
+# INFO:
+
+| SOURCE CODE: <a href="https://github.com/RossoDev/kahootanswerhack/blob/2b2d4488390600014ed42da952df8769c13dae98/Kahoot%20Answer%20Hack.bat">Kahoot Answer Hack.bat</a>.
+
+| APPLICATION: <a href="https://github.com/RossoDev/kahootanswerhack/archive/2b2d4488390600014ed42da952df8769c13dae98.zip">Kahoot Answer Hack</a>.
