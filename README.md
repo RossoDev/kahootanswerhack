@@ -30,4 +30,4 @@ When you return to the main page, the Kahoot answers document will be deleted.
 
 | SOURCE CODE: <a href="https://github.com/RossoDev/kahootanswerhack/blob/2b2d4488390600014ed42da952df8769c13dae98/Kahoot%20Answer%20Hack.bat">Kahoot Answer Hack.bat</a>.
 
-| APPLICATION: <a href="https://github.com/RossoDev/kahootanswerhack/archive/2b2d4488390600014ed42da952df8769c13dae98.zip">Kahoot Answer Hack</a>.
+| APPLICATION DOWNLOAD: <a href="https://github.com/RossoDev/kahootanswerhack/archive/2b2d4488390600014ed42da952df8769c13dae98.zip">Kahoot Answer Hack</a>.
