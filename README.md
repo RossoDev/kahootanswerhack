@@ -7,7 +7,7 @@ Pure Batch,
 
 ![cmdkahootanswerhack](https://user-images.githubusercontent.com/44946921/217188017-24514392-8fcc-4e07-bb95-021b13c6ee44.png)
 
-INSTRUCTION MANUAL:
+# INSTRUCTION MANUAL:
 
 Requirements:
 - Internet connection
