@@ -7,7 +7,7 @@ INSTRUCTION MANUAL:
 
 Requirements:
 - Internet connection
-- JQ [OPTIONAL] (library that will be used to allow a better reading of the converted json file) -> [watch this repo](https://stedolan.github.io/jq/download/)
+- JQ [OPTIONAL] (library that will be used to allow a better reading of the converted json file) -> [DOWNLOAD](https://stedolan.github.io/jq/download/)
 - Permissions to modify the Desktop folder (used to create and delete the file with Kahoot solutions)
 - UUID code (obtainable after "quizId=" from Kahoot URL, ex.
 https://play.kahoot.it/v2/?quizId=cfc981a8-cb08-4a0f-ac33-a1c59cc106ca)
